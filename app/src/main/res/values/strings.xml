@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="setting">Settings</string>
+    <string name="refresh">Refresh</string>
+</resources>
