@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     private String TAG = "MainActivity";
     GridView movies_gv;
     String api_base = "https://api.themoviedb.org/3/movie/";
-    String api_key = "****************";
+    String api_key = "api_key=*******************";
 
 
     @Override
